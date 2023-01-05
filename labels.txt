@@ -1,4 +1,3 @@
 0 Healthy
 1 Bacterial_Spot
-2 Septoria_Leaf_Spot
-3 EMPTY
+2 EMPTY
